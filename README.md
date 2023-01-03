@@ -1,5 +1,7 @@
 # Togemon
 
+<img src="Media/togemon-icon-transparent-1024x1024.png" width="256">
+
 Togemon is an open source macOS application written in Swift that allows you to toggle your external monitor on or off from the menu bar. This can be useful if you are using a computer connected to an external monitor, but the screen is not currently visible and you don't want to have to disconnect the monitor.
 
 ## Installation
@@ -18,7 +20,9 @@ xcodebuild
 
 To use Togemon, simply left-click the app icon in the menu bar. Whichever monitor the icon is clicked for will become the primary, and all other connected monitors will mirror that one. You can also right-click the icon to show a dropdown menu which details which monitors are currently visible to the operating system, and whether or not they are active or mirroring another monitor. Clicking on any of these will either toggle mirroring off, or set the selected monitor as the primary.
 
-### Example
+### Demo
+
+![Demo](Media/togemon-demo.gif)
 
 ## License
 
