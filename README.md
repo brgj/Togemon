@@ -8,9 +8,11 @@ To install Togemon, download the latest release from the releases page and drag 
 
 Alternatively, you can clone the repository and build the app from source:
 
+```
 git clone https://github.com/brgj/Togemon.git
 cd Togemon
 xcodebuild
+```
 
 ## Usage
 
